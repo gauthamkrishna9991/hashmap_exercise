@@ -1,6 +1,6 @@
 # hashmap_exercise
 
-![Rust](https://github.com/gauthamkrishna9991/hashmap_exercise/workflows/Rust/badge.svg)
+![Rust](https://github.com/gauthamkrishna9991/hashmap_exercise/workflows/Rust/badge.svg?branch=master)
 
 Just a small hashmap exercise to brush up on rust topics.
 
